@@ -1,0 +1,3 @@
+A,juan,4
+B,sofia,2
+A,juan,3
